@@ -1,2 +1,30 @@
 # skillz
-Skillset
+- Master:
+  - ansible
+  - IT architecture
+  - PostgreSQL
+  - Load Balancers
+  - Server hardware
+  - Mass Storage Deivces
+  - Security Procedures/Politics
+  - Virtualization (Hyper-V,VMWare,Digital Ocean,Amazon etc.)
+  - Linux
+  - Windows
+  - Backup
+  - Monitoring (zabbix,nagios,collectd etc.)
+  - java/tomcat/proxy stack
+  - Documentation
+  - Troubleshooting
+- Advanced:
+  - Networking (Firewalls,Switches etc.)
+  - atlassian (jira,confluence,crowd)
+  - Disaster Recovery
+  - Windows Server (MSSQL,Active Directory,Exchange)
+  - git
+  - build servers (bamboo,jenkins)
+  - postfix
+  - Docker
+  - coding (php,ruby,python,perl,javascript,/bin/bash,powershell)
+  - Mobile Application Development
+  - Project management
+  - Quality Assurance
